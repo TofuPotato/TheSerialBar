@@ -20,7 +20,7 @@ public class ClickManager : MonoBehaviour
 
         id = GameObject.FindWithTag("ID");
         Debug.Log(id.name);
-        Destroy(id);
+        //Destroy(id);
 
         id = new GameObject();
         id.name = "BordieCollinsID";
