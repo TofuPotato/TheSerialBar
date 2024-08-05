@@ -1,7 +1,604 @@
 fileFormatVersion: 2
 guid: 44e304e5870e4aa4990dfd9510fddb1e
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: 2580620340452209794
+    second: folks_0
+  - first:
+      213: 2332634024439066131
+    second: folks_1
+  - first:
+      213: 4157076988034458129
+    second: folks_2
+  - first:
+      213: -4657548100474418548
+    second: folks_3
+  - first:
+      213: -3269719900660546006
+    second: folks_4
+  - first:
+      213: 8425361241824601714
+    second: folks_5
+  - first:
+      213: 2911739441096757910
+    second: folks_6
+  - first:
+      213: -264590215061873583
+    second: folks_7
+  - first:
+      213: -8193783284064763326
+    second: folks_8
+  - first:
+      213: 560040012219641881
+    second: folks_9
+  - first:
+      213: 1784613199090776529
+    second: folks_10
+  - first:
+      213: -2949449426441768539
+    second: folks_11
+  - first:
+      213: 3602911511088855872
+    second: folks_12
+  - first:
+      213: -6042541299117868149
+    second: folks_13
+  - first:
+      213: -4877441631132138352
+    second: folks_14
+  - first:
+      213: -514362614513346910
+    second: folks_15
+  - first:
+      213: -6789292974703103993
+    second: folks_16
+  - first:
+      213: 2878540912064115632
+    second: folks_17
+  - first:
+      213: 7009256072240543108
+    second: folks_18
+  - first:
+      213: -4878892253708831949
+    second: folks_19
+  - first:
+      213: 1808852931079464360
+    second: folks_20
+  - first:
+      213: -3900579170953680459
+    second: folks_21
+  - first:
+      213: 7621932556283433858
+    second: folks_22
+  - first:
+      213: -7305761445894134979
+    second: folks_23
+  - first:
+      213: -5450674362517528257
+    second: folks_24
+  - first:
+      213: 7880554123218079256
+    second: folks_25
+  - first:
+      213: -4454833065118879142
+    second: folks_26
+  - first:
+      213: 8081499771069578800
+    second: folks_27
+  - first:
+      213: 8246954271094197518
+    second: folks_28
+  - first:
+      213: -24114323795140438
+    second: folks_29
+  - first:
+      213: 8276973474778072469
+    second: folks_30
+  - first:
+      213: -3483253048033576367
+    second: folks_31
+  - first:
+      213: -26364947853498677
+    second: folks_32
+  - first:
+      213: 8754436956530658579
+    second: folks_33
+  - first:
+      213: -7849370696953349721
+    second: folks_34
+  - first:
+      213: 7952476914452306088
+    second: folks_35
+  - first:
+      213: -4332132124222359146
+    second: folks_36
+  - first:
+      213: -7810205561523070964
+    second: folks_37
+  - first:
+      213: -3167316812879811061
+    second: folks_38
+  - first:
+      213: -4789444837004987683
+    second: folks_39
+  - first:
+      213: -1706842554532109380
+    second: folks_40
+  - first:
+      213: 2892042969868975143
+    second: folks_41
+  - first:
+      213: 1875192437680765566
+    second: folks_42
+  - first:
+      213: -4939898912650392008
+    second: folks_43
+  - first:
+      213: -5708120696781158513
+    second: folks_44
+  - first:
+      213: -1408175969777256859
+    second: folks_45
+  - first:
+      213: 5147418345284506606
+    second: folks_46
+  - first:
+      213: 4879131058337053848
+    second: folks_47
+  - first:
+      213: 3443964247387099410
+    second: folks_48
+  - first:
+      213: -392779023139001525
+    second: folks_49
+  - first:
+      213: -5600735089954874999
+    second: folks_50
+  - first:
+      213: -8005547265330088160
+    second: folks_51
+  - first:
+      213: 6968673650467184340
+    second: folks_52
+  - first:
+      213: -4606897106357985852
+    second: folks_53
+  - first:
+      213: 2314631764151541267
+    second: folks_54
+  - first:
+      213: 3580325357107290467
+    second: folks_55
+  - first:
+      213: 7718750907606844390
+    second: folks_56
+  - first:
+      213: 5125791677310119246
+    second: folks_57
+  - first:
+      213: 4416484549119497998
+    second: folks_58
+  - first:
+      213: 4152983447859086094
+    second: folks_59
+  - first:
+      213: -6013411951539913377
+    second: folks_60
+  - first:
+      213: 891467474355269080
+    second: folks_61
+  - first:
+      213: 6308071830686993467
+    second: folks_62
+  - first:
+      213: 2799043486582777687
+    second: folks_63
+  - first:
+      213: 2113219905722819110
+    second: folks_64
+  - first:
+      213: -2535336942057641497
+    second: folks_65
+  - first:
+      213: 7510771457228583473
+    second: folks_66
+  - first:
+      213: -7009783806802447145
+    second: folks_67
+  - first:
+      213: -3864652618417438428
+    second: folks_68
+  - first:
+      213: 7706653203283646252
+    second: folks_69
+  - first:
+      213: 9124660919713213891
+    second: folks_70
+  - first:
+      213: 3829153404050635657
+    second: folks_71
+  - first:
+      213: -3006800818485008427
+    second: folks_72
+  - first:
+      213: -3143920460275849481
+    second: folks_73
+  - first:
+      213: 302629238872346574
+    second: folks_74
+  - first:
+      213: 8287416164308151197
+    second: folks_75
+  - first:
+      213: -3738676806366287648
+    second: folks_76
+  - first:
+      213: -2944823263282819840
+    second: folks_77
+  - first:
+      213: 2524145930555162407
+    second: folks_78
+  - first:
+      213: 6910860584903823108
+    second: folks_79
+  - first:
+      213: -8720253838356768611
+    second: folks_80
+  - first:
+      213: 6024636792949217412
+    second: folks_81
+  - first:
+      213: -3944701025114994798
+    second: folks_82
+  - first:
+      213: -8702295228206045063
+    second: folks_83
+  - first:
+      213: 3229790939036107869
+    second: folks_84
+  - first:
+      213: 3816336148333776535
+    second: folks_85
+  - first:
+      213: -8508618258671812779
+    second: folks_86
+  - first:
+      213: -5312509396469173018
+    second: folks_87
+  - first:
+      213: 4669815606122924331
+    second: folks_88
+  - first:
+      213: -9209911259070987827
+    second: folks_89
+  - first:
+      213: -8213630055445476059
+    second: folks_90
+  - first:
+      213: -8182039157018641119
+    second: folks_91
+  - first:
+      213: 8202467464777705461
+    second: folks_92
+  - first:
+      213: 5893228377397152324
+    second: folks_93
+  - first:
+      213: 8377781283137298846
+    second: folks_94
+  - first:
+      213: -1310181691941236259
+    second: folks_95
+  - first:
+      213: 7610935649511267985
+    second: folks_96
+  - first:
+      213: -5326570800383604790
+    second: folks_97
+  - first:
+      213: -2400052567020932504
+    second: folks_98
+  - first:
+      213: 6681722088411035466
+    second: folks_99
+  - first:
+      213: -8690370433850157990
+    second: folks_100
+  - first:
+      213: -8995138682068582211
+    second: folks_101
+  - first:
+      213: 7100838162597385975
+    second: folks_102
+  - first:
+      213: 1086451664324893958
+    second: folks_103
+  - first:
+      213: 4779324448019479083
+    second: folks_104
+  - first:
+      213: 2466934611433197220
+    second: folks_105
+  - first:
+      213: 2915074127680476228
+    second: folks_106
+  - first:
+      213: 1257409364168440070
+    second: folks_107
+  - first:
+      213: 4910082395193905608
+    second: folks_108
+  - first:
+      213: 7564127839362999949
+    second: folks_109
+  - first:
+      213: -2448053825508395670
+    second: folks_110
+  - first:
+      213: 8206038706585938918
+    second: folks_111
+  - first:
+      213: -3422117093695467104
+    second: folks_112
+  - first:
+      213: 6836118214949618502
+    second: folks_113
+  - first:
+      213: -2214845093940734796
+    second: folks_114
+  - first:
+      213: 6278689365242957200
+    second: folks_115
+  - first:
+      213: 4037382546810910521
+    second: folks_116
+  - first:
+      213: -749710399067638226
+    second: folks_117
+  - first:
+      213: -6656230301093582419
+    second: folks_118
+  - first:
+      213: 5727905898484422029
+    second: folks_119
+  - first:
+      213: 885535204027740871
+    second: folks_120
+  - first:
+      213: -2992645964603125659
+    second: folks_121
+  - first:
+      213: -5169561777590616204
+    second: folks_122
+  - first:
+      213: 3346381233405535313
+    second: folks_123
+  - first:
+      213: -8324431376703027057
+    second: folks_124
+  - first:
+      213: 4085049045505767128
+    second: folks_125
+  - first:
+      213: 8248463182398260991
+    second: folks_126
+  - first:
+      213: -6562479437970573665
+    second: folks_127
+  - first:
+      213: -3012793535564577430
+    second: folks_128
+  - first:
+      213: 4727121619727587173
+    second: folks_129
+  - first:
+      213: -6484542810421206803
+    second: folks_130
+  - first:
+      213: 3211282535817375349
+    second: folks_131
+  - first:
+      213: -9076838803071570372
+    second: folks_132
+  - first:
+      213: 8888895956079406912
+    second: folks_133
+  - first:
+      213: -5758513295135446837
+    second: folks_134
+  - first:
+      213: 935613680362035648
+    second: folks_135
+  - first:
+      213: -1747654560557952282
+    second: folks_136
+  - first:
+      213: 2679727565200290920
+    second: folks_137
+  - first:
+      213: 6104886996390436128
+    second: folks_138
+  - first:
+      213: -3122944821983510233
+    second: folks_139
+  - first:
+      213: 8561341772257341408
+    second: folks_140
+  - first:
+      213: 8529048799748775557
+    second: folks_141
+  - first:
+      213: 6343823400919228528
+    second: folks_142
+  - first:
+      213: -5346955602063676373
+    second: folks_143
+  - first:
+      213: 2280061063382432679
+    second: folks_144
+  - first:
+      213: -327303425540757855
+    second: folks_145
+  - first:
+      213: -4184578117127756858
+    second: folks_146
+  - first:
+      213: 3555051663763594465
+    second: folks_147
+  - first:
+      213: 5797938025337663556
+    second: folks_148
+  - first:
+      213: 5567250553083034690
+    second: folks_149
+  - first:
+      213: 3095697265220644947
+    second: folks_150
+  - first:
+      213: -3197294630519425024
+    second: folks_151
+  - first:
+      213: 424156725520796303
+    second: folks_152
+  - first:
+      213: -4224908749817289101
+    second: folks_153
+  - first:
+      213: -1868556509991236658
+    second: folks_154
+  - first:
+      213: -105615990873890899
+    second: folks_155
+  - first:
+      213: 4651933447771891262
+    second: folks_156
+  - first:
+      213: -3721613289846846885
+    second: folks_157
+  - first:
+      213: 3380661605918525409
+    second: folks_158
+  - first:
+      213: -2072852897983647168
+    second: folks_159
+  - first:
+      213: 1809387344698311105
+    second: folks_160
+  - first:
+      213: 4942724660650461826
+    second: folks_161
+  - first:
+      213: 157974880763224840
+    second: folks_162
+  - first:
+      213: 4831290247223454500
+    second: folks_163
+  - first:
+      213: 2272159868630559946
+    second: folks_164
+  - first:
+      213: 4354852704424899159
+    second: folks_165
+  - first:
+      213: 8997351502285549096
+    second: folks_166
+  - first:
+      213: 2211708272720051841
+    second: folks_167
+  - first:
+      213: 8520681299916521119
+    second: folks_168
+  - first:
+      213: 7840705356274542948
+    second: folks_169
+  - first:
+      213: -7803264138161860314
+    second: folks_170
+  - first:
+      213: -2462307298796453492
+    second: folks_171
+  - first:
+      213: 4643480179658931918
+    second: folks_172
+  - first:
+      213: 7095876966414852018
+    second: folks_173
+  - first:
+      213: -4516694380529533382
+    second: folks_174
+  - first:
+      213: 3172226276548059815
+    second: folks_175
+  - first:
+      213: -1517229723865362106
+    second: folks_176
+  - first:
+      213: -4760921323305293731
+    second: folks_177
+  - first:
+      213: 3811586676387474901
+    second: folks_178
+  - first:
+      213: -2111190734671722067
+    second: folks_179
+  - first:
+      213: 5692821611627110074
+    second: folks_180
+  - first:
+      213: -1882335705796901079
+    second: folks_181
+  - first:
+      213: 6248448862145938571
+    second: folks_182
+  - first:
+      213: 8051757836622505842
+    second: folks_183
+  - first:
+      213: 8220140084256475072
+    second: folks_184
+  - first:
+      213: 379964437042161590
+    second: folks_185
+  - first:
+      213: -5219683801383882584
+    second: folks_186
+  - first:
+      213: 8782366303283101376
+    second: folks_187
+  - first:
+      213: -3933010916368817424
+    second: folks_188
+  - first:
+      213: 8277622570901498660
+    second: folks_189
+  - first:
+      213: -341976711412163829
+    second: folks_190
+  - first:
+      213: -7650103494687595066
+    second: folks_191
+  - first:
+      213: 356965192852970888
+    second: folks_192
+  - first:
+      213: -7948680605602901930
+    second: folks_193
+  - first:
+      213: 8560881686710056498
+    second: folks_194
+  - first:
+      213: 4314711952653617012
+    second: folks_195
+  - first:
+      213: -6573754436022805271
+    second: folks_196
+  - first:
+      213: 6781053078891466498
+    second: folks_197
+  - first:
+      213: 2767346154863170732
+    second: folks_198
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -31,7 +628,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -40,7 +637,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -64,7 +661,19 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -73,7 +682,2107 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: folks_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 383
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2843dc4e68430d320800000000000000
+      internalID: 2580620340452209794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: folks_1
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 383
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31e2ea1594e2f5020800000000000000
+      internalID: 2332634024439066131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: folks_2
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 383
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 112aeb7de77e0b930800000000000000
+      internalID: 4157076988034458129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: folks_3
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 383
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8a4deaeda01d5fb0800000000000000
+      internalID: -4657548100474418548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: folks_8
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 351
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24249c20485d94e80800000000000000
+      internalID: -8193783284064763326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: folks_9
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 351
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9107b548c69a5c700800000000000000
+      internalID: 560040012219641881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: folks_10
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 351
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d97741df3834c810800000000000000
+      internalID: 1784613199090776529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: folks_11
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 351
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a175fd9f537117d0800000000000000
+      internalID: -2949449426441768539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: folks_12
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 351
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04bfd972eec100230800000000000000
+      internalID: 3602911511088855872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: folks_13
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 351
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8bb37504b4942ca0800000000000000
+      internalID: -6042541299117868149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: folks_20
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a56ae738265a1910800000000000000
+      internalID: 1808852931079464360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: folks_21
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b9a40109eb5ed9c0800000000000000
+      internalID: -3900579170953680459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: folks_22
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2835247f64b86c960800000000000000
+      internalID: 7621932556283433858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: folks_23
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d336cbb2ca8bc9a90800000000000000
+      internalID: -7305761445894134979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: folks_25
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81e47abd83a5d5d60800000000000000
+      internalID: 7880554123218079256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: folks_27
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03eb0036931472070800000000000000
+      internalID: 8081499771069578800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: folks_29
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa0213876245aaff0800000000000000
+      internalID: -24114323795140438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: folks_31
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15a7921decff8afc0800000000000000
+      internalID: -3483253048033576367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: folks_32
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc6aba8383552aff0800000000000000
+      internalID: -26364947853498677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: folks_33
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31dcf8a67020e7970800000000000000
+      internalID: 8754436956530658579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: folks_34
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a93cb950fe611390800000000000000
+      internalID: -7849370696953349721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: folks_35
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a89c62ae9fdc5e60800000000000000
+      internalID: 7952476914452306088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: folks_36
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 699faaf19cc21e3c0800000000000000
+      internalID: -4332132124222359146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: folks_37
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0813aa0c639c9390800000000000000
+      internalID: -7810205561523070964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: folks_39
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd23dfadb49788db0800000000000000
+      internalID: -4789444837004987683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: folks_41
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72cb43622c9922820800000000000000
+      internalID: 2892042969868975143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: folks_43
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83e82259c14f17bb0800000000000000
+      internalID: -4939898912650392008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: folks_44
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f87cd4d187ea8c0b0800000000000000
+      internalID: -5708120696781158513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: folks_47
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89c71c8c8d726b340800000000000000
+      internalID: 4879131058337053848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: folks_49
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4b239a3f819c8af0800000000000000
+      internalID: -392779023139001525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: folks_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 257
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9899c221c113642b0800000000000000
+      internalID: -5600735089954874999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: folks_51
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 257
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02776696d2596e090800000000000000
+      internalID: -8005547265330088160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: folks_52
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 257
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4de98b373c3b5b060800000000000000
+      internalID: 6968673650467184340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: folks_53
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 257
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cdd1ca7d730110c0800000000000000
+      internalID: -4606897106357985852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: folks_55
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 257
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36124b261fedfa130800000000000000
+      internalID: 3580325357107290467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: folks_57
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 257
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4d29b67f58722740800000000000000
+      internalID: 5125791677310119246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: folks_59
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 257
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e03c7bf317c52a930800000000000000
+      internalID: 4152983447859086094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: folks_61
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 257
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dda2c9d1f02f5c00800000000000000
+      internalID: 891467474355269080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: folks_62
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 225
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3c0fbd88e5ca8750800000000000000
+      internalID: 6308071830686993467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: folks_63
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 225
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75723a8983338d620800000000000000
+      internalID: 2799043486582777687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: folks_64
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 225
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 622a4e4de4aa35d10800000000000000
+      internalID: 2113219905722819110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: folks_65
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 225
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e9aab6eb7ca0dcd0800000000000000
+      internalID: -2535336942057641497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: folks_66
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 225
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 132b049b8de9b3860800000000000000
+      internalID: 7510771457228583473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: folks_67
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 225
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d4314364ce38be90800000000000000
+      internalID: -7009783806802447145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: folks_69
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 225
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2719dcb14883fa60800000000000000
+      internalID: 7706653203283646252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: folks_71
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 225
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98b7ae6bbb2e32530800000000000000
+      internalID: 3829153404050635657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: folks_73
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 225
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f6ec23affc8e54d0800000000000000
+      internalID: -3143920460275849481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: folks_75
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 225
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9bea63c711d20370800000000000000
+      internalID: 8287416164308151197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: folks_77
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 225
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00d88b928d2e127d0800000000000000
+      internalID: -2944823263282819840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: folks_79
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 225
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40fc07f261f48ef50800000000000000
+      internalID: 6910860584903823108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: folks_82
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 195
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 297c6ec415b9149c0800000000000000
+      internalID: -3944701025114994798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: folks_83
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 195
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 978a330c89c3b3780800000000000000
+      internalID: -8702295228206045063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: folks_84
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 195
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d54c5043fb582dc20800000000000000
+      internalID: 3229790939036107869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: folks_85
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 195
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79ecae0d18956f430800000000000000
+      internalID: 3816336148333776535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: folks_87
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 195
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e4b78dc9dc2646b0800000000000000
+      internalID: -5312509396469173018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: folks_89
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 195
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc1043e8182df2080800000000000000
+      internalID: -9209911259070987827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: folks_91
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 195
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12d319bacbe837e80800000000000000
+      internalID: -8182039157018641119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: folks_93
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 195
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44a420f4cf3f8c150800000000000000
+      internalID: 5893228377397152324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: folks_100
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 163
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a54ddcb422a956780800000000000000
+      internalID: -8690370433850157990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: folks_101
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 163
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db04de5e609da2380800000000000000
+      internalID: -8995138682068582211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: folks_102
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 163
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f69721efae3b8260800000000000000
+      internalID: 7100838162597385975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: folks_103
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 163
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60d97bd480ad31f00800000000000000
+      internalID: 1086451664324893958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: folks_104
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 163
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2a7a867342935240800000000000000
+      internalID: 4779324448019479083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: folks_105
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 163
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ae879e65ff4c3220800000000000000
+      internalID: 2466934611433197220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: folks_107
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 163
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60972889727337110800000000000000
+      internalID: 1257409364168440070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: folks_109
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 163
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d86efd4813e29f860800000000000000
+      internalID: 7564127839362999949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: folks_111
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 163
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eb2927e9b4b1e170800000000000000
+      internalID: 8206038706585938918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: folks_113
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 163
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64346a41c45cede50800000000000000
+      internalID: 6836118214949618502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: folks_115
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 163
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09d445636b2622750800000000000000
+      internalID: 6278689365242957200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: folks_117
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 163
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e26382b3d5e7895f0800000000000000
+      internalID: -749710399067638226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: folks_124
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 133
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f88008284cda97c80800000000000000
+      internalID: -8324431376703027057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: folks_125
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 133
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d67b6f967201b830800000000000000
+      internalID: 4085049045505767128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: folks_126
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 133
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff68cb9ef8d687270800000000000000
+      internalID: 8248463182398260991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: folks_127
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 133
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9675fd78b36de4a0800000000000000
+      internalID: -6562479437970573665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: folks_129
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 133
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5679ee9511c1a9140800000000000000
+      internalID: 4727121619727587173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: folks_131
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 133
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57e6fc4c374c09c20800000000000000
+      internalID: 3211282535817375349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: folks_133
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 133
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04fe483d6c3bb5b70800000000000000
+      internalID: 8888895956079406912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: folks_135
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 133
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c999f86fa7fbfc00800000000000000
+      internalID: 935613680362035648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: folks_148
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 101
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4403bfd4ae9667050800000000000000
+      internalID: 5797938025337663556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: folks_149
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 101
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24c7c18a1e8d24d40800000000000000
+      internalID: 5567250553083034690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: folks_150
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 101
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 350ff91d24026fa20800000000000000
+      internalID: 3095697265220644947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: folks_151
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 101
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00830a9397de0a3d0800000000000000
+      internalID: -3197294630519425024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: folks_152
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 101
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8a82c96b48e2e500800000000000000
+      internalID: 424156725520796303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: folks_153
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 101
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37663b660eb1e55c0800000000000000
+      internalID: -4224908749817289101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: folks_155
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 101
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daf5c5dd0d6c88ef0800000000000000
+      internalID: -105615990873890899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: folks_157
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 101
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5a4e4b4e6c2a5cc0800000000000000
+      internalID: -3721613289846846885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: folks_159
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 101
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 042bb00954fbb33e0800000000000000
+      internalID: -2072852897983647168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: folks_161
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 101
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28a42a424e5189440800000000000000
+      internalID: 4942724660650461826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: folks_163
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 101
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42b2090f1e03c0340800000000000000
+      internalID: 4831290247223454500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: folks_165
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 101
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7523560367b8f6c30800000000000000
+      internalID: 4354852704424899159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: folks_170
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 70
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 621515c1c9c35b390800000000000000
+      internalID: -7803264138161860314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: folks_171
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 70
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c81c26fbe8024ddd0800000000000000
+      internalID: -2462307298796453492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: folks_172
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 70
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ece33260f94f07040800000000000000
+      internalID: 4643480179658931918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: folks_173
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 70
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bf9801618e997260800000000000000
+      internalID: 7095876966414852018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: folks_180
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 38
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abe53ba0817f00f40800000000000000
+      internalID: 5692821611627110074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: folks_181
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 38
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92701fb06a990e5e0800000000000000
+      internalID: -1882335705796901079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: folks_182
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 38
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8407696223f6b650800000000000000
+      internalID: 6248448862145938571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: folks_183
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 38
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2772a55a7179dbf60800000000000000
+      internalID: 8051757836622505842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: folks_184
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 38
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c78e0ebaddc31270800000000000000
+      internalID: 8220140084256475072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: folks_185
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 38
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b7ed2174a7e54500800000000000000
+      internalID: 379964437042161590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
