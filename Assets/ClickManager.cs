@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using TMPro;
+using UnityEngine.SceneManagement;
 
 public class ClickManager : MonoBehaviour
 {
@@ -11,6 +12,9 @@ public class ClickManager : MonoBehaviour
     public int i;
     public int scoreCount;
     public TextMeshProUGUI scoreText;
+    public GameObject endScreenWin;
+    public GameObject endScreenLose;
+
     // public GameObject queue;
     // public GameObject[] npcs;
     // public GameObject currentNPC;
@@ -92,7 +96,32 @@ public class ClickManager : MonoBehaviour
             else
             {
                 Debug.Log("Game End");
+                if(scoreCount == 9)
+                {
+                    EndGame("win");
+                }
+                else
+                {
+                    EndGame("lose");
+                }
             }
         }
+    }
+
+    public void EndGame(string state)
+    {
+        if(state == "win")
+        {
+            endScreenWin.SetActive(true);
+        }
+        else
+        {
+            endScreenLose.SetActive(true);
+        }
+    }
+
+    public void Retry()
+    {
+        SceneManager.LoadScene("Bar");
     }
 }

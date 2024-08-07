@@ -4,15 +4,13 @@ using UnityEngine;
 
 public class StartButton : MonoBehaviour
 {
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
+    public GameObject mainCamera;
+    public GameObject player;
 
-    // Update is called once per frame
-    void Update()
+    public void StartClicked(Object button)
     {
-        
+        // Start button clicked, play animations for main camera and player sprite
+        mainCamera.GetComponent<Animator>().Play("Down");
+        player.GetComponent<Animator>().Play("Player_Walk");
     }
 }
