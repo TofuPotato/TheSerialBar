@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 2642095072683315485}
   - component: {fileID: 1633853229159943508}
   m_Layer: 0
-  m_Name: BordieCollinsID
+  m_Name: BordieCollins_WrongID
   m_TagString: ID
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
