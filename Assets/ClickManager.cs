@@ -15,6 +15,7 @@ public class ClickManager : MonoBehaviour
     public GameObject endScreenWin;
     public GameObject endScreenLose;
     public GameObject fadeScreenOverlay;
+    AudioManager audioManager;
 
     // public GameObject queue;
     // public GameObject[] npcs;
@@ -22,8 +23,16 @@ public class ClickManager : MonoBehaviour
     // public Transform target;
     // public Animator[] animators;
 
+    private void Awake()
+    {
+        audioManager = GameObject.FindGameObjectWithTag("Audio").GetComponent<AudioManager>();
+    }
+
     public void CheckChoice(Object button)
     {
+        // When button is clicked, play sfx
+        audioManager.PlaySFX(audioManager.selectButton);
+
         // Get current ID displayed
         id = GameObject.FindWithTag("ID");
         
@@ -125,6 +134,7 @@ public class ClickManager : MonoBehaviour
 
     public void Retry()
     {
+        audioManager.PlaySFX(audioManager.selectButton);
         SceneManager.LoadScene("Bar");
     }
 
