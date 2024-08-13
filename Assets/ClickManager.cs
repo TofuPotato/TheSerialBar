@@ -14,6 +14,7 @@ public class ClickManager : MonoBehaviour
     public TextMeshProUGUI scoreText;
     public GameObject endScreenWin;
     public GameObject endScreenLose;
+    public GameObject fadeScreenOverlay;
 
     // public GameObject queue;
     // public GameObject[] npcs;
@@ -110,6 +111,8 @@ public class ClickManager : MonoBehaviour
 
     public void EndGame(string state)
     {
+        fadeScreenOverlay.SetActive(true);
+        
         if(state == "win")
         {
             endScreenWin.SetActive(true);
@@ -123,5 +126,13 @@ public class ClickManager : MonoBehaviour
     public void Retry()
     {
         SceneManager.LoadScene("Bar");
+    }
+
+    void Update()
+    {
+        if (Input.GetKey("escape"))
+        {
+            Application.Quit();
+        }
     }
 }
