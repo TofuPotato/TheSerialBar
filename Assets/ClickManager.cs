@@ -88,7 +88,10 @@ public class ClickManager : MonoBehaviour
                     // Should allow entry, deduct point
                     Debug.Log("Wrong");
                     scoreCount = int.Parse(scoreText.text);
-                    scoreCount -= 1;
+                    if(scoreCount != 0)
+                    {
+                        scoreCount -= 1;
+                    }
                     scoreText.text = scoreCount.ToString();
                 }
             }
